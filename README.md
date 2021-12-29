@@ -4,7 +4,7 @@ Commercial property is a very difficult line to understand. It is generally char
 
 ### Data
 
-Data set from ABC Insurance. The dataset represents 10+ years of commercial property claims. These claims represent all possible loss types, like fire, wind, water, hail, hurricanes, etc… and multiple industries. ABC Insurance has products for small commercial exposures like a coffee shop or a single bay mechanic shop all the way through to complex large commercial exposure like multi-state/internal operations or large single buildings. All of the data has been masked to protect the confidentiality nature of the information, including loss dollars. In the raw output the loss dollars have a formula applied to change the values but retain the patterns and relationships to each other. In the accompanying zip file, please review “Claim_Modeling_Data_Extract.xslb”
+Data set from ABC Insurance. The dataset represents 10+ years of commercial property claims. These claims represent all possible loss types, like fire, wind, water, hail, hurricanes, etc… and multiple industries. ABC Insurance has products for small commercial exposures like a coffee shop or a single bay mechanic shop all the way through to complex large commercial exposure like multi-state/internal operations or large single buildings. All of the data has been masked to protect the confidentiality nature of the information, including loss dollars. In the raw output the loss dollars have a formula applied to change the values but retain the patterns and relationships to each other. In the accompanying zip file, please review the files “Claim_Modeling_Data_Extract” and “Claim_Modeling_Data_Extract_Final”.
 
 ### Business Case
 
