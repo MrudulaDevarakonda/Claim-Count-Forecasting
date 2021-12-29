@@ -10,4 +10,4 @@ Data set from ABC Insurance. The dataset represents 10+ years of commercial prop
 
 Review, analyze, and build a forecasting model(s) to predict a year’s worth of claim volume. This forecast will be used by the reserving actuaries in their quarterly reserve review process. Look for logical clusters or groupings to improve model predictions. Understand if there are trends in claims over time as well as seasonal patterns in the perils or industries. Last, determining how catastrophic events influence the claim forecasting methods.
 
-**_Note: The reports and back-end work is not shared here. Hence, you may find some file names in the report fr whcih back-ups are not shared explicitly._ **
+_**Note: The reports and back-end work is not shared here. Hence, you may find some file names in the report fr whcih back-ups are not shared explicitly.**_
